@@ -41,4 +41,18 @@ A cross-platform installation and update script for **Cursor AI IDE** that autom
 After installation, launch Cursor by:
 - Running `cursor` in terminal
 - Using your application menu
-- From Applications folder (macOS) or Start Menu (Windows) 
+- From Applications folder (macOS) or Start Menu (Windows)
+
+---
+
+## 💝 Show Your Support
+
+If **Cursor Ninja** helped you easily install or update Cursor AI IDE, please consider:
+
+⭐ **Star this repository** - It helps others discover this tool!
+
+🔗 **Share with your network** - Spread the word to fellow developers!
+
+📢 **Tell your team** - Help your colleagues get Cursor set up quickly!
+
+**Your support makes open source development worthwhile! 🙏** 
