@@ -2,6 +2,14 @@
 
 A cross-platform installation and update script for **Cursor AI IDE** that automatically detects your operating system and downloads the latest version.
 
+## 📋 Prerequisites
+
+Some users have reported crashes due to compatibility issues with other versions of libfuse. To prevent this, ensure you have libfuse2 installed by running:
+
+```bash
+sudo apt install libfuse2
+```
+
 ## 📋 Installation Steps
 
 ### Quick Installation
