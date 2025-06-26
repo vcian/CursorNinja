@@ -51,6 +51,8 @@ After installation, launch Cursor by:
 - Using your application menu
 - From Applications folder (macOS) or Start Menu (Windows)
 
+> **📌 Note:** If you had a previous Cursor icon pinned to your desktop, first unpin the old icon, then search for "Cursor" in your software/applications menu and launch the updated version from there.
+
 ---
 
 ## 💝 Show Your Support
